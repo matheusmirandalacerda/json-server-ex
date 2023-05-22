@@ -28,12 +28,9 @@
   "portfolio": [
     {
       "id": 1,
-      "title": "🐾 Find a Friend",
-      "image": "https://www.youtube.com/watch?v=E12HuWm_Fzs",
-      "github": "https://github.com/Elias-Neto/find-a-friend",
-      "deploy": "https://elias-neto.github.io/find-a-friend/",
-      "demonstration": "https://www.youtube.com/embed/E12HuWm_Fzs",
-      "description": "Essa Landing Page foi desenvolvida para o lançamento do FindAFriend, um app que conecta ONGs e entidades protetoras a pessoas adotantes e animais resgatados."
+      "title": "Portfólio 1",
+      "image": "https://picsum.photos/300/200?random=1",
+      "github": "https://academy.comeialabs.com.br/"
     }
   ]
 }
